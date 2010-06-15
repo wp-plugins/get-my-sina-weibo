@@ -3,8 +3,8 @@ Contributors: Gyan Liu
 Donate link: http://code.google.com/p/get-my-sina-weibo/
 Tags: sina weibo, tweets, curl, wordpress, plugin
 Requires at least: 2.7
-Tested up to: 2.7
-Stable tag: 0.1
+Tested up to: 2.9
+Stable tag: 0.1.1
 
 Simple plugin to return a user defined number of tweets from Sina Weibo and parse any URLs in the tweet.
 This plugin is based on getMyTweets plugin and weibo-basic-auth-class weibo.class.php.
